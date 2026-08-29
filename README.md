@@ -1,19 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0066FF,100:7A00FF&height=180&section=header&text=MARCOS%20GOMES%20MACHADO&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20ONLINE%20%E2%80%A2%20DEVELOPER%20PROFILE&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0066FF,100:7A00FF&height=180&section=header&text=MARCOS&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20PROFILE%20%E2%80%A2%20SYSTEM%20ONLINE&descAlignY=60&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=850&lines=INITIALIZING+SYSTEM...;ACCESSING+MARCOS%27+CORE...;SYSTEM+ONLINE+%E2%9C%93;PYTHON+%7C+WEB+%7C+AI+%7C+CYBERSECURITY;BUILDING+THE+FUTURE+WITH+CODE;WELCOME+TO+MY+DIGITAL+CORE" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=850&lines=INITIALIZING+SYSTEM...;HELLO%2C+I%27M+MARCOS+%F0%9F%91%8B;PYTHON+BEGINNER+%F0%9F%90%8D;LEARNING+CYBERSECURITY+%F0%9F%94%90;BUILDING+MY+SKILLS+ONE+PROJECT+AT+A+TIME;THE+JOURNEY+HAS+JUST+BEGUN..." alt="Typing Animation"/>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=marcosgomesmachado&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views"/>
 
-<a href="https://github.com/marcosgomesmachado?tab=followers">
-<img src="https://img.shields.io/github/followers/marcosgomesmachado?label=FOLLOWERS&style=for-the-badge&color=7A00FF&logo=github" alt="Followers"/>
-</a>
-
 <a href="https://github.com/marcosgomesmachado">
-<img src="https://img.shields.io/github/stars/marcosgomesmachado?label=STARS&style=for-the-badge&color=0066FF&logo=github" alt="Stars"/>
+<img src="https://img.shields.io/github/followers/marcosgomesmachado?label=FOLLOWERS&style=for-the-badge&color=7A00FF&logo=github" alt="Followers"/>
 </a>
 
 </div>
@@ -24,15 +20,16 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    MARCOS // SYSTEM CORE                    ║
+║                     MARCOS // CORE                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  STATUS       :: ONLINE                                      ║
-║  ROLE         :: DEVELOPER / STUDENT                        ║
+║  LEVEL        :: BEGINNER                                   ║
+║  MAIN SKILL   :: PYTHON                                     ║
+║  CURRENT GOAL :: CYBERSECURITY                              ║
 ║  LOCATION     :: BRAZIL 🇧🇷                                  ║
-║  SPECIALITY   :: SOFTWARE • WEB • AI                        ║
-║  ENVIRONMENT  :: WINDOWS • LINUX • WSL                      ║
-║  MISSION      :: LEARN • BUILD • EVOLVE                     ║
+║                                                              ║
+║  MISSION      :: LEARN • BUILD • EVOLVE                      ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -41,28 +38,43 @@
 
 # `> ABOUT_ME`
 
+### 👋 Olá, eu sou o Marcos!
+
+Sou um **iniciante na programação**, atualmente estudando e construindo minha base em tecnologia.
+
+🐍 Tenho conhecimento **básico de Python** e estou aprendendo programação através de projetos e experimentos.
+
+🔐 Meu principal objetivo é **ingressar na área de Cybersecurity**, desenvolvendo gradualmente conhecimentos em redes, sistemas, Linux, segurança e programação.
+
+💻 Também tenho interesse em desenvolvimento de software e tecnologia em geral.
+
+🧠 Estou no começo da jornada e meu objetivo é evoluir constantemente.
+
+> **Every expert was once a beginner.**
+
+---
+
+# `> CURRENT_FOCUS`
+
 <div align="center">
 
-### 👨‍💻 Olá, eu sou o Marcos!
+```text
+┌──────────────────────────────────────────────────────┐
+│                  CURRENT MISSION                     │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  🐍 Python                 ███████░░░░░  BASIC       │
+│                                                      │
+│  🐧 Linux                  █████░░░░░░░  LEARNING    │
+│                                                      │
+│  🌐 Networking             ███░░░░░░░░░  STARTING    │
+│                                                      │
+│  🔐 Cybersecurity          ██░░░░░░░░░░  GOAL        │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
 </div>
-
-Sou um estudante e desenvolvedor apaixonado por **programação, tecnologia e criação de projetos**.
-
-Atualmente estou explorando diferentes áreas da tecnologia, desde desenvolvimento Web e Python até **Inteligência Artificial, Linux e Cybersecurity**.
-
-Gosto de aprender colocando a mão na massa: criando projetos, testando tecnologias e transformando ideias em código.
-
-```text
-> Current Status
-[████████████████████████████████████████] ONLINE
-
-> Learning
-Python • Web Development • AI • Cybersecurity
-
-> Philosophy
-Code → Learn → Build → Improve → Repeat
-```
 
 ---
 
@@ -70,102 +82,56 @@ Code → Learn → Build → Improve → Repeat
 
 <div align="center">
 
-### `PROGRAMMING LANGUAGES`
+### `CURRENTLY LEARNING`
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,bash&theme=dark" />
-
-<br><br>
-
-### `WEB DEVELOPMENT`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 <br><br>
 
-### `TOOLS & ENVIRONMENT`
+### `DEVELOPMENT ENVIRONMENT`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu&theme=dark" />
 
 </div>
 
----
-
-# `> TECHNOLOGY_MATRIX`
-
-| Technology    | Level / Focus | Usage                        |
-| ------------- | ------------- | ---------------------------- |
-| 🐍 Python     | █████████░    | Programming, automation & AI |
-| 🌐 HTML       | █████████░    | Web development              |
-| 🎨 CSS        | ████████░░    | Interfaces & layouts         |
-| ⚡ JavaScript  | ███████░░░    | Interactivity                |
-| 🧪 Flask      | ██████░░░░    | Python Web applications      |
-| 🐧 Linux      | ██████░░░░    | Development environment      |
-| 🐳 Docker     | █████░░░░░    | Containers                   |
-| 🐙 Git/GitHub | ████████░░    | Version control              |
+> **Nota:** minha stack ainda está em construção. Conforme eu aprender novas tecnologias, esta seção será atualizada.
 
 ---
 
-# `> TOOLS.exe`
+# `> LEARNING_PATH`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🐍
-
-**Python**
-
-Programming
-Automation
-AI
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-**Web**
-
-HTML
-CSS
-JavaScript
-
-</td>
-
-<td align="center" width="25%">
-
-### 🐧
-
-**Linux**
-
-Ubuntu
-WSL
-Terminal
-
-</td>
-
-<td align="center" width="25%">
-
-### 🐙
-
-**Git**
-
-GitHub
-Version Control
-Open Source
-
-</td>
-</tr>
-</table>
+```text
+                 ┌─────────────────┐
+                 │     PYTHON      │
+                 │     BASICS      │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │      LINUX      │
+                 │     SYSTEMS     │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │    NETWORKING   │
+                 │     BASICS      │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │ CYBERSECURITY   │
+                 │      🎯         │
+                 └─────────────────┘
+```
 
 </div>
 
 ---
 
-# `> PROJECT_DATABASE`
+# `> PROJECTS`
 
 <div align="center">
 
@@ -175,10 +141,10 @@ Open Source
 
 <td width="50%" valign="top">
 
-<h2 align="center">🤖 AI CORE</h2>
+<h2 align="center">🐍 PYTHON STUDIES</h2>
 
 <p align="center">
-Experimentos e estudos envolvendo Inteligência Artificial, Python, automação e lógica computacional.
+Projetos, exercícios e experimentos desenvolvidos enquanto construo minha base em Python.
 </p>
 
 <p align="center">
@@ -187,7 +153,7 @@ Experimentos e estudos envolvendo Inteligência Artificial, Python, automação 
 
 <p align="center">
 <a href="https://github.com/marcosgomesmachado">
-<img src="https://img.shields.io/badge/ACCESS_CORE-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECTS-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </p>
 
@@ -195,10 +161,34 @@ Experimentos e estudos envolvendo Inteligência Artificial, Python, automação 
 
 <td width="50%" valign="top">
 
-<h2 align="center">🚦 SMART TRAFFIC LIGHT</h2>
+<h2 align="center">🌐 WEB PROJECTS</h2>
 
 <p align="center">
-Projeto de semáforo desenvolvido com HTML, CSS, JavaScript e Python/Flask.
+Projetos experimentais desenvolvidos para aprender conceitos de desenvolvimento Web.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/marcosgomesmachado">
+<img src="https://img.shields.io/badge/VIEW_PROJECTS-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🚦 TRAFFIC LIGHT</h2>
+
+<p align="center">
+Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 </p>
 
 <p align="center">
@@ -207,31 +197,7 @@ Projeto de semáforo desenvolvido com HTML, CSS, JavaScript e Python/Flask.
 
 <p align="center">
 <a href="https://github.com/marcosgomesmachado">
-<img src="https://img.shields.io/badge/ACCESS_PROJECT-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2 align="center">💻 PROGRAMMING LAB</h2>
-
-<p align="center">
-Exercícios, algoritmos, estudos e experimentos desenvolvidos durante minha jornada na programação.
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/marcosgomesmachado">
-<img src="https://img.shields.io/badge/ACCESS_LAB-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </p>
 
@@ -239,20 +205,18 @@ Exercícios, algoritmos, estudos e experimentos desenvolvidos durante minha jorn
 
 <td width="50%" valign="top">
 
-<h2 align="center">🎮 GAME PROJECTS</h2>
+<h2 align="center">🔐 FUTURE CYBERSECURITY</h2>
 
 <p align="center">
-Projetos e experimentos relacionados a jogos, lógica de programação e desenvolvimento.
+Área que pretendo explorar e desenvolver profundamente ao longo da minha jornada na tecnologia.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/marcosgomesmachado">
-<img src="https://img.shields.io/badge/ACCESS_PROJECT-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-7A00FF?style=for-the-badge"/>
 </p>
 
 </td>
@@ -265,26 +229,24 @@ Projetos e experimentos relacionados a jogos, lógica de programação e desenvo
 
 ---
 
-# `> CURRENT_MISSION`
-
-<div align="center">
+# `> GOALS`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    CURRENT OBJECTIVES                       ║
+║                         MY GOALS                             ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  [████████████████████░░] PYTHON                  ACTIVE     ║
-║  [██████████████████░░░░] WEB DEVELOPMENT        ACTIVE     ║
-║  [████████████████░░░░░░] ARTIFICIAL INTELLIGENCE ACTIVE   ║
-║  [██████████████░░░░░░░░] CYBERSECURITY         ACTIVE     ║
-║  [████████████░░░░░░░░░░] LINUX / WSL           ACTIVE     ║
-║  [██████████░░░░░░░░░░░░] OPEN SOURCE           NEXT       ║
+║  [✓] Começar a programar                                    ║
+║  [✓] Aprender Python básico                                 ║
+║  [ ] Aprofundar meus conhecimentos em Python                ║
+║  [ ] Aprender Linux                                         ║
+║  [ ] Aprender redes de computadores                         ║
+║  [ ] Estudar fundamentos de Cybersecurity                    ║
+║  [ ] Desenvolver projetos de segurança                      ║
+║  [ ] Ingressar na área de Cybersecurity 🎯                  ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-</div>
 
 ---
 
@@ -294,7 +256,7 @@ Projetos e experimentos relacionados a jogos, lógica de programação e desenvo
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcosgomesmachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgomesmachado&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgomesmachado&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -302,7 +264,7 @@ Projetos e experimentos relacionados a jogos, lógica de programação e desenvo
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=marcosgomesmachado&theme=tokyonight&hide_border=true&mode=weekly" />
+<img src="https://streak-stats.demolab.com?user=marcosgomesmachado&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -312,7 +274,7 @@ Projetos e experimentos relacionados a jogos, lógica de programação e desenvo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgomesmachado&bg_color=0D1117&color=00F0FF&line=7A00FF&point=FFFFFF&area_color=0066FF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgomesmachado&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -328,7 +290,7 @@ Projetos e experimentos relacionados a jogos, lógica de programação e desenvo
 
 ---
 
-# `> CONTRIBUTION_MATRIX`
+# `> CONTRIBUTION_SNAKE`
 
 <div align="center">
 
@@ -352,14 +314,6 @@ Projetos e experimentos relacionados a jogos, lógica de programação e desenvo
 
 </div>
 
-<br>
-
-<div align="center">
-
-**📧 [marcos.gomes.machado@Gmail.com](mailto:marcos.gomes.machado@Gmail.com)**
-
-</div>
-
 ---
 
 <div align="center">
@@ -367,36 +321,19 @@ Projetos e experimentos relacionados a jogos, lógica de programação e desenvo
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║                  SYSTEM STATUS : ONLINE                     ║
-║                  CONNECTION    : SECURE                     ║
-║                  CORE          : MARCOS                     ║
-║                  VERSION       : 2026.08                    ║
+║                 SYSTEM STATUS : ONLINE                      ║
+║                 USER          : MARCOS                      ║
+║                 LEVEL         : BEGINNER                    ║
+║                 MISSION       : CYBERSECURITY               ║
 ║                                                              ║
-║              "BUILD THE FUTURE WITH CODE."                  ║
+║              THE JOURNEY HAS JUST BEGUN.                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,50:0066FF,100:00F0FF&height=120&section=footer"/>
 
-**© 2026 Marcos Gomes Machado • SYSTEM ONLINE**
+**© 2026 Marcos • Learning. Building. Evolving.**
 
 </div>
 
-
-<!--
-**marcosgomesmachado/marcosgomesmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
