@@ -334,7 +334,7 @@ Meu principal objetivo de aprendizado: construir uma base sólida para futuramen
 
 <div align="center">
 
-📧 **[marcos.gomes.machado@Gmail.com](mailto:marcos.gomes.machado@Gmail.com)**
+📧 **[marcos.gomes.machado@escola.pr.gov.br](mailto:marcos.gomes.machado@escola.pr.gov.br)**
 
 </div>
 
