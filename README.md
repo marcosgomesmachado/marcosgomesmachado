@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0066FF,100:7A00FF&height=180&section=header&text=MARCOS&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20PROFILE%20%E2%80%A2%20SYSTEM%20ONLINE&descAlignY=60&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=850&lines=INITIALIZING+SYSTEM...;HELLO%2C+I%27M+MARCOS+%F0%9F%91%8B;PYTHON+BEGINNER+%F0%9F%90%8D;LEARNING+CYBERSECURITY+%F0%9F%94%90;BUILDING+MY+SKILLS+ONE+PROJECT+AT+A+TIME;THE+JOURNEY+HAS+JUST+BEGUN..." alt="Typing Animation"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=850&lines=INITIALIZING+SYSTEM...;HELLO%2C+I%27M+MARCOS+%F0%9F%91%8B;PYTHON+BEGINNER+%F0%9F%90%8D;LEARNING+CYBERSECURITY+%F0%9F%94%90;BUILDING+MY+SKILLS+ONE+STEP+AT+A+TIME;THE+JOURNEY+HAS+JUST+BEGUN..." alt="Typing Animation"/>
 
 <br><br>
 
@@ -42,13 +44,13 @@
 
 Sou um **iniciante na programação**, atualmente estudando e construindo minha base em tecnologia.
 
-🐍 Tenho conhecimento **básico de Python** e estou aprendendo programação através de projetos e experimentos.
+🐍 Tenho conhecimento **básico de Python** e estou aprendendo programação através de estudos, exercícios e projetos.
 
-🔐 Meu principal objetivo é **ingressar na área de Cybersecurity**, desenvolvendo gradualmente conhecimentos em redes, sistemas, Linux, segurança e programação.
+🔐 Meu principal objetivo é **ingressar na área de Cybersecurity** e, ao longo da minha jornada, desenvolver conhecimentos em segurança, redes, sistemas e programação.
 
-💻 Também tenho interesse em desenvolvimento de software e tecnologia em geral.
+💻 Também tenho interesse em tecnologia e desenvolvimento de software.
 
-🧠 Estou no começo da jornada e meu objetivo é evoluir constantemente.
+🧠 Estou no começo da jornada e quero evoluir constantemente.
 
 > **Every expert was once a beginner.**
 
@@ -63,13 +65,15 @@ Sou um **iniciante na programação**, atualmente estudando e construindo minha 
 │                  CURRENT MISSION                     │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
-│  🐍 Python                 ███████░░░░░  BASIC       │
+│  🐍 Python              ███████░░░░  BASIC           │
 │                                                      │
-│  🐧 Linux                  █████░░░░░░░  LEARNING    │
+│  💻 Programming         █████░░░░░░  LEARNING        │
 │                                                      │
-│  🌐 Networking             ███░░░░░░░░░  STARTING    │
+│  🐧 Linux               ███░░░░░░░░  STARTING        │
 │                                                      │
-│  🔐 Cybersecurity          ██░░░░░░░░░░  GOAL        │
+│  🌐 Networking          ██░░░░░░░░░  FUTURE          │
+│                                                      │
+│  🔐 Cybersecurity       ██░░░░░░░░░  MAIN GOAL       │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 ```
@@ -84,17 +88,19 @@ Sou um **iniciante na programação**, atualmente estudando e construindo minha 
 
 ### `CURRENTLY LEARNING`
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
 <br><br>
 
-### `DEVELOPMENT ENVIRONMENT`
+### `TOOLS I USE`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu&theme=dark"/>
 
 </div>
 
-> **Nota:** minha stack ainda está em construção. Conforme eu aprender novas tecnologias, esta seção será atualizada.
+<br>
+
+> **Minha stack ainda está em construção.** Conforme eu aprender novas tecnologias, esta seção será atualizada.
 
 ---
 
@@ -103,28 +109,34 @@ Sou um **iniciante na programação**, atualmente estudando e construindo minha 
 <div align="center">
 
 ```text
-                 ┌─────────────────┐
-                 │     PYTHON      │
-                 │     BASICS      │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │      LINUX      │
-                 │     SYSTEMS     │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │    NETWORKING   │
-                 │     BASICS      │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ CYBERSECURITY   │
-                 │      🎯         │
-                 └─────────────────┘
+                    ┌─────────────────┐
+                    │     PYTHON      │
+                    │     BASICS      │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    PROGRAMMING  │
+                    │    FUNDAMENTALS │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │      LINUX      │
+                    │     SYSTEMS     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    NETWORKING   │
+                    │     BASICS      │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │ CYBERSECURITY   │
+                    │      🎯         │
+                    └─────────────────┘
 ```
 
 </div>
@@ -144,7 +156,7 @@ Sou um **iniciante na programação**, atualmente estudando e construindo minha 
 <h2 align="center">🐍 PYTHON STUDIES</h2>
 
 <p align="center">
-Projetos, exercícios e experimentos desenvolvidos enquanto construo minha base em Python.
+Exercícios e pequenos projetos desenvolvidos enquanto construo minha base em Python.
 </p>
 
 <p align="center">
@@ -152,8 +164,8 @@ Projetos, exercícios e experimentos desenvolvidos enquanto construo minha base 
 </p>
 
 <p align="center">
-<a href="https://github.com/marcosgomesmachado">
-<img src="https://img.shields.io/badge/VIEW_PROJECTS-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://github.com/marcosgomesmachado?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </p>
 
@@ -161,19 +173,19 @@ Projetos, exercícios e experimentos desenvolvidos enquanto construo minha base 
 
 <td width="50%" valign="top">
 
-<h2 align="center">🌐 WEB PROJECTS</h2>
+<h2 align="center">💻 PROGRAMMING</h2>
 
 <p align="center">
-Projetos experimentais desenvolvidos para aprender conceitos de desenvolvimento Web.
+Projetos e experimentos desenvolvidos durante meu aprendizado de lógica e programação.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/marcosgomesmachado">
-<img src="https://img.shields.io/badge/VIEW_PROJECTS-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://github.com/marcosgomesmachado?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </p>
 
@@ -185,19 +197,19 @@ Projetos experimentais desenvolvidos para aprender conceitos de desenvolvimento 
 
 <td width="50%" valign="top">
 
-<h2 align="center">🚦 TRAFFIC LIGHT</h2>
+<h2 align="center">🌐 WEB EXPERIMENTS</h2>
 
 <p align="center">
-Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
+Experimentos e projetos criados para aprender conceitos de desenvolvimento e tecnologia.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/marcosgomesmachado">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://github.com/marcosgomesmachado?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </p>
 
@@ -205,14 +217,14 @@ Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 
 <td width="50%" valign="top">
 
-<h2 align="center">🔐 FUTURE CYBERSECURITY</h2>
+<h2 align="center">🔐 CYBERSECURITY</h2>
 
 <p align="center">
-Área que pretendo explorar e desenvolver profundamente ao longo da minha jornada na tecnologia.
+Meu principal objetivo de aprendizado: construir uma base sólida para futuramente ingressar na área de Cybersecurity.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
 </p>
 
 <p align="center">
@@ -242,7 +254,7 @@ Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 ║  [ ] Aprender Linux                                         ║
 ║  [ ] Aprender redes de computadores                         ║
 ║  [ ] Estudar fundamentos de Cybersecurity                    ║
-║  [ ] Desenvolver projetos de segurança                      ║
+║  [ ] Desenvolver projetos relacionados à segurança          ║
 ║  [ ] Ingressar na área de Cybersecurity 🎯                  ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -254,9 +266,9 @@ Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=marcosgomesmachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=marcosgomesmachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgomesmachado&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgomesmachado&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -264,7 +276,7 @@ Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=marcosgomesmachado&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=marcosgomesmachado&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -274,7 +286,7 @@ Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgomesmachado&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgomesmachado&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -284,7 +296,7 @@ Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=marcosgomesmachado&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=marcosgomesmachado&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"/>
 
 </div>
 
@@ -294,7 +306,11 @@ Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/marcosgomesmachado/marcosgomesmachado/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgomesmachado/marcosgomesmachado/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgomesmachado/marcosgomesmachado/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/marcosgomesmachado/marcosgomesmachado/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -314,6 +330,14 @@ Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 
 </div>
 
+<br>
+
+<div align="center">
+
+📧 **[marcos.gomes.machado@Gmail.com](mailto:marcos.gomes.machado@Gmail.com)**
+
+</div>
+
 ---
 
 <div align="center">
@@ -324,7 +348,7 @@ Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 ║                 SYSTEM STATUS : ONLINE                      ║
 ║                 USER          : MARCOS                      ║
 ║                 LEVEL         : BEGINNER                    ║
-║                 MISSION       : CYBERSECURITY               ║
+║                 MAIN GOAL     : CYBERSECURITY               ║
 ║                                                              ║
 ║              THE JOURNEY HAS JUST BEGUN.                    ║
 ║                                                              ║
@@ -336,4 +360,3 @@ Projeto de estudo envolvendo HTML, CSS, JavaScript e Python/Flask.
 **© 2026 Marcos • Learning. Building. Evolving.**
 
 </div>
-
